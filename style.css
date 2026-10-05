@@ -1,0 +1,18 @@
+/* Element Selector (body) */
+body {
+    background-color: lightgray;
+}
+.card {
+    background-color: green
+}
+
+#name {
+    color: blue;
+}
+.profession {
+    color: red
+}
+
+.card button {
+    background-color: blue;
+}
